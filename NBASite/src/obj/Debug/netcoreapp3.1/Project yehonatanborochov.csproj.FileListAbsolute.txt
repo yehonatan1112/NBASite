@@ -1,0 +1,5 @@
+E:\בית ספר תשפא\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\YehonatanBorochov_TheProject\Project yehonatanborochov\obj\Debug\netcoreapp3.1\Project yehonatanborochov.csprojAssemblyReference.cache
+E:\בית ספר תשפא\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\YehonatanBorochov_TheProject\Project yehonatanborochov\obj\Debug\netcoreapp3.1\Project yehonatanborochov.AssemblyInfoInputs.cache
+E:\בית ספר תשפא\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\YehonatanBorochov_TheProject\Project yehonatanborochov\obj\Debug\netcoreapp3.1\Project yehonatanborochov.AssemblyInfo.cs
+E:\בית ספר תשפא\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\YehonatanBorochov_TheProject\Project yehonatanborochov\obj\Debug\netcoreapp3.1\Project yehonatanborochov.csproj.CoreCompileInputs.cache
+E:\בית ספר תשפא\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\YehonatanBorochov_TheProject\Project yehonatanborochov\obj\Debug\netcoreapp3.1\Project yehonatanborochov.MvcApplicationPartsAssemblyInfo.cache

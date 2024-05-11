@@ -1,0 +1,81 @@
+﻿
+body {
+    background-color: darkblue;
+    font-family: Calibri;
+    font-size: 16px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    opacity: 3;
+}
+
+h1 {
+    font-family: 'Agency FB';
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Calibri;
+    font-size: 20px;
+    text-align: left;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #d3d3d3;
+}
+
+    .flex-container > div {
+        background-color:;
+        text-align: center;
+        padding: 0px;
+        line-height: 45px;
+        border: none;
+        justify-content: center;
+        width: 1720px;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkred;
+    justify-content: center;
+}
+
+li {
+    float: left;
+    align-content: center;
+    display: list-item;
+}
+
+    li a {
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        background-color: darkred;
+        color: white;
+        font-size: 16px;
+    }
+
+        li a:hover {
+            background-color: red;
+        }
+
+.header {
+}
+
+footer {
+    text-align: left;
+    margin-left: 5px;
+    bottom: 1px;
+    width: 100%;
+    line-height: 0.5em;
+    color: white;
+}

@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+    <%=ProtectedLink%>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <footer>
+        <b>
+            <p>Created by Yehonatan Borochov</p>
+            <p style="font-size: 16px">Credit: Wikipedia</p>
+        </b>
+        <p style="text-align: right">Counter: <%=Counter%> , <%=userMsg%></p>
+    </footer>
+</body>
+</html>

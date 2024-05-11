@@ -1,0 +1,681 @@
+﻿++Solution 'Project yehonatanborochov' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Project yehonatanborochov.sln
+++Project yehonatanborochov(1)
+i:{00000000-0000-0000-0000-000000000000}:Project yehonatanborochov(1)
+++App_Code
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_code\
+++App_Data
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_data\
+++bin
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\
+++images
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\
+++adamsilver.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\adamsilver.jpg
+++CHAMP.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\champ.jpg
+++deni.mp4
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\deni.mp4
+++deniphoto.png
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\deniphoto.png
+++ESPN.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\espn.jpg
+++Facebook.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\facebook.jpg
+++gj.gif
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\gj.gif
+++gj.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\gj.jpg
+++Instagram.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\instagram.jpg
+++israel.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\israel.jpg
+++kawai.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\kawai.jpg
+++LIVESTREAM.PNG
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\livestream.png
+++MVP.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\mvp.jpg
+++NBA-Map-Complete.png
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nba-map-complete.png
+++NBALOGO.png
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbalogo.png
+++NBAphoto1.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbaphoto1.jpg
+++NBAphoto2.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbaphoto2.jpg
+++NBAphoto3.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbaphoto3.jpg
+++NBAphoto4.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbaphoto4.jpg
+++NBAphoto5.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbaphoto5.jpg
+++nbasite.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\nbasite.jpg
+++omri.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\omri.jpg
+++PlayerFm.png
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\playerfm.png
+++playoffs.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\playoffs.jpg
+++POP.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\pop.jpg
+++SCORE.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\score.jpg
+++sry.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\sry.jpg
+++TIM.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\tim.jpg
+++title.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\title.jpg
+++Twitter.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\twitter.jpg
+++Youtube.jpg
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\images\youtube.jpg
+++obj
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\
+++Properties
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\properties\
+++wwwroot
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\wwwroot\
+++AccessDenied.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\accessdenied.aspx
+++Admin.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\admin.aspx
+++AdminEditUser.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\adminedituser.aspx
+++app.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\app.config
+++appsettings.Development.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\appsettings.development.json
+++appsettings.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\appsettings.json
+++DeleteData.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\deletedata.aspx
+++Edit.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\edit.aspx
+++Global.asax
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\global.asax
+++Homepage.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\homepage.aspx
+++InsertData.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\insertdata.aspx
+++Login.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\login.aspx
+++LogOut.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\logout.aspx
+++MasterPage.master
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\masterpage.master
+++Page1.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page1.aspx
+++Page2.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page2.aspx
+++Page3.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page3.aspx
+++Page4.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page4.aspx
+++Project book borochov.docx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\project book borochov.docx
+++Project yehonatanborochov.csproj
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\project yehonatanborochov.csproj
+++Project yehonatanborochov.sln
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\project yehonatanborochov.sln
+++RemoveUser.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\removeuser.aspx
+++SearchSubmit.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\searchsubmit.aspx
+++ShowAllData.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\showalldata.aspx
+++ShowFromList.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\showfromlist.aspx
+++SimpleProtectedPage.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\simpleprotectedpage.aspx
+++StyleSheet.css
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\stylesheet.css
+++triviaQuiz.aspx
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\triviaquiz.aspx
+++Web.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\web.config
+++MyAdoHelper.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_code\myadohelper.cs
+++DB.mdf
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_data\db.mdf
+++dbo.personalData.sql
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_data\dbo.personaldata.sql
+++Debug
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\
+++Release
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\release\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\release\
+++Project yehonatanborochov.csproj.nuget.dgspec.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\project yehonatanborochov.csproj.nuget.dgspec.json
+++Project yehonatanborochov.csproj.nuget.g.props
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\project yehonatanborochov.csproj.nuget.g.props
+++Project yehonatanborochov.csproj.nuget.g.targets
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\project yehonatanborochov.csproj.nuget.g.targets
+++project.assets.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\project.assets.json
+++project.nuget.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\project.nuget.cache
+++Space_Website.csproj.nuget.dgspec.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\space_website.csproj.nuget.dgspec.json
+++Space_Website.csproj.nuget.g.props
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\space_website.csproj.nuget.g.props
+++Space_Website.csproj.nuget.g.targets
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\space_website.csproj.nuget.g.targets
+++launchSettings.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\properties\launchsettings.json
+++AccessDenied.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\accessdenied.aspx.cs
+++Admin.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\admin.aspx.cs
+++AdminEditUser.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\adminedituser.aspx.cs
+++DeleteData.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\deletedata.aspx.cs
+++Edit.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\edit.aspx.cs
+++Homepage.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\homepage.aspx.cs
+++InsertData.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\insertdata.aspx.cs
+++Login.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\login.aspx.cs
+++LogOut.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\logout.aspx.cs
+++MasterPage.master.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\masterpage.master.cs
+++Page1.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page1.aspx.cs
+++Page2.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page2.aspx.cs
+++Page3.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page3.aspx.cs
+++Page4.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\page4.aspx.cs
+++RemoveUser.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\removeuser.aspx.cs
+++SearchSubmit.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\searchsubmit.aspx.cs
+++ShowAllData.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\showalldata.aspx.cs
+++ShowFromList.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\showfromlist.aspx.cs
+++SimpleProtectedPage.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\simpleprotectedpage.aspx.cs
+++triviaQuiz.aspx.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\triviaquiz.aspx.cs
+++DB_log.ldf
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\app_data\db_log.ldf
+++net461
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\
+++netcoreapp3.1
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\netcoreapp3.1\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\release\netcoreapp3.1\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\release\netcoreapp3.1\
+++refs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\
+++Microsoft.AspNetCore.Authentication.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.authentication.abstractions.dll
+++Microsoft.AspNetCore.Authentication.Core.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.authentication.core.dll
+++Microsoft.AspNetCore.Connections.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.connections.abstractions.dll
+++Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.diagnostics.abstractions.dll
+++Microsoft.AspNetCore.Diagnostics.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.diagnostics.dll
+++Microsoft.AspNetCore.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.dll
+++Microsoft.AspNetCore.HostFiltering.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.hostfiltering.dll
+++Microsoft.AspNetCore.Hosting.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.hosting.abstractions.dll
+++Microsoft.AspNetCore.Hosting.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.hosting.dll
+++Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.hosting.server.abstractions.dll
+++Microsoft.AspNetCore.Http.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.http.abstractions.dll
+++Microsoft.AspNetCore.Http.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.http.dll
+++Microsoft.AspNetCore.Http.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.http.extensions.dll
+++Microsoft.AspNetCore.Http.Features.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.http.features.dll
+++Microsoft.AspNetCore.HttpOverrides.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.httpoverrides.dll
+++Microsoft.AspNetCore.Routing.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.routing.abstractions.dll
+++Microsoft.AspNetCore.Routing.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.routing.dll
+++Microsoft.AspNetCore.Server.IISIntegration.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.iisintegration.dll
+++Microsoft.AspNetCore.Server.Kestrel.Core.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.kestrel.core.dll
+++Microsoft.AspNetCore.Server.Kestrel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.kestrel.dll
+++Microsoft.AspNetCore.Server.Kestrel.Https.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.kestrel.https.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.kestrel.transport.abstractions.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.server.kestrel.transport.sockets.dll
+++Microsoft.AspNetCore.WebUtilities.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.aspnetcore.webutilities.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.CommandLine.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.commandline.dll
+++Microsoft.Extensions.Configuration.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.environmentvariables.dll
+++Microsoft.Extensions.Configuration.FileExtensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.fileextensions.dll
+++Microsoft.Extensions.Configuration.Json.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.json.dll
+++Microsoft.Extensions.Configuration.UserSecrets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.configuration.usersecrets.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Physical.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.fileproviders.physical.dll
+++Microsoft.Extensions.FileSystemGlobbing.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.filesystemglobbing.dll
+++Microsoft.Extensions.Hosting.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.hosting.abstractions.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Logging.Debug.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.logging.debug.dll
+++Microsoft.Extensions.Logging.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.logging.dll
+++Microsoft.Extensions.ObjectPool.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.objectpool.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Options.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.extensions.primitives.dll
+++Microsoft.Net.Http.Headers.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.net.http.headers.dll
+++Microsoft.Win32.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\microsoft.win32.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\microsoft.win32.primitives.dll
+++netstandard.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\netstandard.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\netstandard.dll
+++Newtonsoft.Json.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\newtonsoft.json.dll
+++Space_Website.deps.json
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\space_website.deps.json
+++Space_Website.exe
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\space_website.exe
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.exe
+++Space_Website.exe.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\space_website.exe.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.exe.config
+++Space_Website.pdb
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\space_website.pdb
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.pdb
+++System.AppContext.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.appcontext.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.appcontext.dll
+++System.Buffers.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.buffers.dll
+++System.Collections.Concurrent.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.collections.concurrent.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.collections.concurrent.dll
+++System.Collections.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.collections.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.collections.dll
+++System.Collections.Immutable.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.collections.immutable.dll
+++System.Collections.NonGeneric.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.collections.nongeneric.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.collections.nongeneric.dll
+++System.Collections.Specialized.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.collections.specialized.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.collections.specialized.dll
+++System.ComponentModel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.componentmodel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.componentmodel.dll
+++System.ComponentModel.EventBasedAsync.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.componentmodel.eventbasedasync.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.componentmodel.eventbasedasync.dll
+++System.ComponentModel.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.componentmodel.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.componentmodel.primitives.dll
+++System.ComponentModel.TypeConverter.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.componentmodel.typeconverter.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.componentmodel.typeconverter.dll
+++System.Console.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.console.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.console.dll
+++System.Data.Common.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.data.common.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.data.common.dll
+++System.Diagnostics.Contracts.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.contracts.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.contracts.dll
+++System.Diagnostics.Debug.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.debug.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.debug.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.fileversioninfo.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.Process.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.process.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.process.dll
+++System.Diagnostics.StackTrace.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.stacktrace.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.stacktrace.dll
+++System.Diagnostics.TextWriterTraceListener.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.textwritertracelistener.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.textwritertracelistener.dll
+++System.Diagnostics.Tools.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.tools.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.tools.dll
+++System.Diagnostics.TraceSource.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.tracesource.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.tracesource.dll
+++System.Diagnostics.Tracing.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.diagnostics.tracing.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.diagnostics.tracing.dll
+++System.Drawing.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.drawing.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.drawing.primitives.dll
+++System.Dynamic.Runtime.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.dynamic.runtime.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.dynamic.runtime.dll
+++System.Globalization.Calendars.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.globalization.calendars.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.globalization.calendars.dll
+++System.Globalization.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.globalization.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.globalization.dll
+++System.Globalization.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.globalization.extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.globalization.extensions.dll
+++System.IO.Compression.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.compression.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.compression.zipfile.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.compression.zipfile.dll
+++System.IO.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.dll
+++System.IO.FileSystem.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.filesystem.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.filesystem.dll
+++System.IO.FileSystem.DriveInfo.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.filesystem.driveinfo.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.filesystem.driveinfo.dll
+++System.IO.FileSystem.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.filesystem.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.filesystem.primitives.dll
+++System.IO.FileSystem.Watcher.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.filesystem.watcher.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.filesystem.watcher.dll
+++System.IO.IsolatedStorage.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.isolatedstorage.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.isolatedstorage.dll
+++System.IO.MemoryMappedFiles.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.memorymappedfiles.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.memorymappedfiles.dll
+++System.IO.Pipelines.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.pipelines.dll
+++System.IO.Pipes.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.pipes.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.pipes.dll
+++System.IO.UnmanagedMemoryStream.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.io.unmanagedmemorystream.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.io.unmanagedmemorystream.dll
+++System.Linq.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.linq.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.linq.dll
+++System.Linq.Expressions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.linq.expressions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.linq.expressions.dll
+++System.Linq.Parallel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.linq.parallel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.linq.parallel.dll
+++System.Linq.Queryable.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.linq.queryable.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.linq.queryable.dll
+++System.Memory.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.memory.dll
+++System.Net.Http.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.http.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.http.dll
+++System.Net.NameResolution.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.nameresolution.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.nameresolution.dll
+++System.Net.NetworkInformation.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.networkinformation.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.networkinformation.dll
+++System.Net.Ping.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.ping.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.ping.dll
+++System.Net.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.primitives.dll
+++System.Net.Requests.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.requests.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.requests.dll
+++System.Net.Security.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.security.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.security.dll
+++System.Net.Sockets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.sockets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.sockets.dll
+++System.Net.WebHeaderCollection.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.webheadercollection.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.webheadercollection.dll
+++System.Net.WebSockets.Client.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.websockets.client.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.websockets.client.dll
+++System.Net.WebSockets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.net.websockets.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.net.websockets.dll
+++System.Numerics.Vectors.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.numerics.vectors.dll
+++System.ObjectModel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.objectmodel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.objectmodel.dll
+++System.Reflection.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.reflection.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.reflection.dll
+++System.Reflection.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.reflection.extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.reflection.extensions.dll
+++System.Reflection.Metadata.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.reflection.metadata.dll
+++System.Reflection.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.reflection.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.reflection.primitives.dll
+++System.Resources.Reader.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.resources.reader.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.resources.reader.dll
+++System.Resources.ResourceManager.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.resources.resourcemanager.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.resources.resourcemanager.dll
+++System.Resources.Writer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.resources.writer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.resources.writer.dll
+++System.Runtime.CompilerServices.Unsafe.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.compilerservices.unsafe.dll
+++System.Runtime.CompilerServices.VisualC.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.compilerservices.visualc.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.compilerservices.visualc.dll
+++System.Runtime.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.dll
+++System.Runtime.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.extensions.dll
+++System.Runtime.Handles.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.handles.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.handles.dll
+++System.Runtime.InteropServices.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.interopservices.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.interopservices.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.interopservices.runtimeinformation.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.interopservices.runtimeinformation.dll
+++System.Runtime.Numerics.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.numerics.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.numerics.dll
+++System.Runtime.Serialization.Formatters.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.serialization.formatters.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.serialization.formatters.dll
+++System.Runtime.Serialization.Json.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.serialization.json.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.serialization.json.dll
+++System.Runtime.Serialization.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.serialization.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.serialization.primitives.dll
+++System.Runtime.Serialization.Xml.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.runtime.serialization.xml.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.runtime.serialization.xml.dll
+++System.Security.Claims.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.claims.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.claims.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.algorithms.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Cng.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.cng.dll
+++System.Security.Cryptography.Csp.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.csp.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.cryptography.csp.dll
+++System.Security.Cryptography.Encoding.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.encoding.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.primitives.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.cryptography.x509certificates.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.cryptography.x509certificates.dll
+++System.Security.Principal.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.principal.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.principal.dll
+++System.Security.Principal.Windows.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.principal.windows.dll
+++System.Security.SecureString.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.security.securestring.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.security.securestring.dll
+++System.Text.Encoding.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.text.encoding.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.text.encoding.dll
+++System.Text.Encoding.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.text.encoding.extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.text.encoding.extensions.dll
+++System.Text.Encodings.Web.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.text.encodings.web.dll
+++System.Text.RegularExpressions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.text.regularexpressions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.text.regularexpressions.dll
+++System.Threading.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.dll
+++System.Threading.Overlapped.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.overlapped.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.overlapped.dll
+++System.Threading.Tasks.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.tasks.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.tasks.dll
+++System.Threading.Tasks.Extensions.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.tasks.extensions.dll
+++System.Threading.Tasks.Parallel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.tasks.parallel.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.tasks.parallel.dll
+++System.Threading.Thread.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.thread.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.thread.dll
+++System.Threading.ThreadPool.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.threadpool.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.threadpool.dll
+++System.Threading.Timer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.threading.timer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.threading.timer.dll
+++System.ValueTuple.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.valuetuple.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.readerwriter.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.readerwriter.dll
+++System.Xml.XDocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.xdocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.xdocument.dll
+++System.Xml.XmlDocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.xmldocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.xmldocument.dll
+++System.Xml.XmlSerializer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.xmlserializer.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.xmlserializer.dll
+++System.Xml.XPath.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.xpath.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\system.xml.xpath.xdocument.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\system.xml.xpath.xdocument.dll
+++.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\.netframework,version=v4.6.1.assemblyattributes.cs
+++Space_Website.AssemblyInfo.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.assemblyinfo.cs
+++Space_Website.AssemblyInfoInputs.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.assemblyinfoinputs.cache
+++Space_Website.assets.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.assets.cache
+++Space_Website.csproj.CopyComplete
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.csproj.copycomplete
+++Space_Website.csproj.CoreCompileInputs.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.csproj.corecompileinputs.cache
+++Space_Website.csproj.FileListAbsolute.txt
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.csproj.filelistabsolute.txt
+++Space_Website.csprojAssemblyReference.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.csprojassemblyreference.cache
+++Space_Website.exe.withSupportedRuntime.config
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\net461\space_website.exe.withsupportedruntime.config
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\release\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++Project yehonatanborochov.AssemblyInfo.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.assemblyinfo.cs
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\release\netcoreapp3.1\project yehonatanborochov.assemblyinfo.cs
+++Project yehonatanborochov.AssemblyInfoInputs.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.assemblyinfoinputs.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\release\netcoreapp3.1\project yehonatanborochov.assemblyinfoinputs.cache
+++Project yehonatanborochov.assets.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.assets.cache
+++Project yehonatanborochov.csproj.CoreCompileInputs.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.csproj.corecompileinputs.cache
+++Project yehonatanborochov.csproj.FileListAbsolute.txt
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.csproj.filelistabsolute.txt
+++Project yehonatanborochov.csprojAssemblyReference.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.csprojassemblyreference.cache
+++Project yehonatanborochov.MvcApplicationPartsAssemblyInfo.cache
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\obj\debug\netcoreapp3.1\project yehonatanborochov.mvcapplicationpartsassemblyinfo.cache
+++netfx.force.conflicts.dll
+i:{ab1dc27d-8c44-4544-8711-4f6cdb79c9b8}:e:\כיתה י\הנדסת תוכנה\אינטרנט\פרוייקט בגרות באינטרנט\yehonatanborochov_theproject\project yehonatanborochov\bin\debug\net461\refs\netfx.force.conflicts.dll
